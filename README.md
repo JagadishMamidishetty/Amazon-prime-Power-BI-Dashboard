@@ -4,7 +4,7 @@
 
 Welcome to the Amazon Prime Data Dashboard! This Power BI dashboard provides a comprehensive view of key metrics and insights related to Amazon Prime content. Dive into the world of shows and movies, exploring data by country, genre, ratings, release year, and more.
 
-![Dashboard Preview](https://photos.app.goo.gl/Ve57MZqLqHEWMcheA)
+![Dashboard Preview](amazon prime dashboard photo.jpg)
 
 ## Key Features
 
